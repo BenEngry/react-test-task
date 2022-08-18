@@ -1,2 +1,18 @@
-"# react-test-task" 
-"# react-test-task" 
+1. Init
+
+server:
+    PORT: 3000
+    run server: npm run dev
+
+client:
+    PORT: 3001
+    run client: npm start
+
+2. Describtion
+
+Simple react-app with own API.
+
+3. Owner
+
+author: Maksym Bazyvoliak
+link: https://github.com/BenEngry/react-test-task
