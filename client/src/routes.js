@@ -1,6 +1,6 @@
-import {LIST_ROUTE, USER_ROUTE} from "./components/utils/consts";
-import {List} from "./components/List/List";
-import {User} from "./components/User/User";
+import { LIST_ROUTE, USER_ROUTE } from "./components/utils/consts";
+import { List } from "./components/List/List";
+import { User } from "./components/User/User";
 
 export const  userRoutes = [
     {

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <User/> List have rendered correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="loader"
+  >
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`Testing <User/> User have rendered correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="loader"
+  >
+    Loading...
+  </div>
+</div>
+`;

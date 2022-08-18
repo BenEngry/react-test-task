@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <ErrorMessage/> List have rendered correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <span>
+    Error!
+  </span>
+</div>
+`;
+
+exports[`Testing <ErrorMessage/> should render a error name 1`] = `
+<div
+  className="wrapper"
+>
+  <span>
+    Error!
+  </span>
+</div>
+`;

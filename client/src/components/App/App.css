@@ -1,19 +1,22 @@
 body {
     margin: 0px;
     padding: 0px;
-
     width: 100%;
     background-color:rgb(48, 18, 105);
-
     color: #fff;
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
 }
-
 .wrapper {
     margin: 250px auto 0px;
     width: 60%;
     padding: 20px 40px;
     background-color: rgb(106, 62, 189);
     border-radius: 20px;
+}
+a {
+    width: 100%;
+    text-align: center;
+    color: inherit;
+    text-decoration: inherit;
 }
