@@ -11,10 +11,5 @@ describe("Testing <List/>", ()=> {
         const list = renderer.create(<List/>).toJSON();
         expect(list).toMatchSnapshot();
     });
-
-    it("List state 'error' is empty object", ()=>{
-        const error = renderer.create(<List/>).toJSON();
-        expect(error.state().error).toBeObject();
-    });
     
 });

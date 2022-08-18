@@ -10,10 +10,4 @@ describe("Testing <ErrorMessage/>", ()=> {
         expect(errorComp).toMatchSnapshot();
     });
 
-    it("should render a error name", ()=>{
-        const errorExample = "Error example";
-        const errorComp = renderer.create(<ErrorMessage error={errorExample}/>);
-        expect(errorComp.prop("example")).toEqual("Error example");
-    });
-
 });
