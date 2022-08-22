@@ -9,13 +9,3 @@ exports[`Testing <ErrorMessage/> List have rendered correctly 1`] = `
   </span>
 </div>
 `;
-
-exports[`Testing <ErrorMessage/> should render a error name 1`] = `
-<div
-  className="wrapper"
->
-  <span>
-    Error!
-  </span>
-</div>
-`;

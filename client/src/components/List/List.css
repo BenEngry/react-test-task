@@ -16,15 +16,15 @@
     position: relative;
 }
 
-.list__string::after {
+.list__string:not(:last-child)::after {
     position: absolute;
     content: "";
-    width: 2px;
-    height: 99px;
+    width: 1px;
+    height: 98px;
     color: rgb(106, 62, 189);
     background-color: rgb(106, 62, 189);
     left: 115%;
-    top: -122%;
+    top: -121.5%;
     transition: .4s ease-in-out;
 }
 
