@@ -10,7 +10,7 @@ client:
 
 2. Describtion
 
-Simple react-app with own API.
+Simple react-app with API.
 
 3. Owner
 
