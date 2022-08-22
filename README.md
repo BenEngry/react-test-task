@@ -1,11 +1,7 @@
 1. Init
 
-server:
-    PORT: 3000
-    run server: npm run dev
-
 client:
-    PORT: 3001
+    PORT: 3000
     run client: npm start
 
 2. Describtion
